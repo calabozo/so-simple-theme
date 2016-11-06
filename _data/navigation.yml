@@ -3,14 +3,14 @@
 - title: About
   url: /about/
 
-- title: Articles
-  url: /articles/
+- title: Statistics
+  url: /statistics/
 
-- title: Blog
-  url: /blog/
+- title: Machine Learning
+  url: /ml/
 
-- title: Theme Setup
-  url: /theme-setup/
+- title: Tools 
+  url: /tools/
 
 - title: Search
   url: /search/

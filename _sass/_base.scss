@@ -94,7 +94,7 @@ ins {
    ========================================================================== */
 
 a {
-	text-decoration: none;
+	text-decoration: underline;
 	color: $link-color;
 
 	&:visited {
@@ -102,7 +102,7 @@ a {
 	}
 
 	&:hover {
-		color: darken($link-color, 20);
+		color: darken($link-color, 100);
 	}
 
 	&:focus {
